@@ -1,0 +1,6 @@
+#include <stdio.h>
+void main() {
+char ch;
+ch= 'A';
+printf("Input a single letter here %c", ch);
+}
